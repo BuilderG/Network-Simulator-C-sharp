@@ -1,2 +1,3 @@
 # Network-Simulator-C-sharp
-A network simulation project emphasizing my skills in C# and networking.
+This project is a simple network simulator built with C# and .NET 8. It demonstrates core object-oriented programming (OOP) concepts and the use of essential data structures by modeling network devices (such as routers, switches, and computers) and simulating data packet transmission between them.
+The goal is to showcase our skills in C# programming, OOP design, and basic networking concepts relevant to information and telecommunication engineering. The project uses inheritance, interfaces, encapsulation, and collections like lists, queues, and dictionaries to represent and manage the network.
